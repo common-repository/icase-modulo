@@ -1,0 +1,102 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iCase\n"
+"POT-Creation-Date: 2017-09-21 16:22-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Language-Team: Itarget Tecnologia\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/class-icase-modulo-wp-admin.php:132
+msgid "Ajustes do módulo"
+msgstr "Module settings"
+
+#: admin/class-icase-modulo-wp-admin.php:139
+msgid "Sigla do cliente"
+msgstr "Customer acronym"
+
+#: admin/class-icase-modulo-wp-admin.php:164
+msgid "Integração com o iCase."
+msgstr "Integration with iCase."
+
+#: admin/class-icase-modulo-wp-admin.php:184
+msgid "A sigla é fornecida pela Itarget Tecnologia."
+msgstr "The acronym is provided by Itarget Technology."
+
+#: admin/class-icase-modulo-wp-admin.php:222
+msgid "As modificações foram salvas."
+msgstr "Modifications have been saved."
+
+#: admin/class-icase-modulo-wp-admin.php:240
+msgid "Salvar"
+msgstr "Save"
+
+#: icase-modulo-wp.php:81
+msgid "Conteúdo restrito. Necessário fazer login"
+msgstr "Restricted content. Need to sign in"
+
+#: icase-modulo-wp.php:94
+msgid "Olá"
+msgstr "Hello"
+
+#: icase-modulo-wp.php:94 includes/class-icase-modulo-wp-widget.php:64
+msgid "Sair"
+msgstr "Log out"
+
+#: icase-modulo-wp.php:95
+msgid "Seja bem-vindo(a) ao espaço do associado."
+msgstr "Welcome to the membership space."
+
+#: icase-modulo-wp.php:97
+msgid "Cadastro"
+msgstr "Register"
+
+#: icase-modulo-wp.php:98
+msgid "Taxas"
+msgstr "Rates"
+
+#: icase-modulo-wp.php:105
+msgid "Conteúdo restrito. Necessário fazer login."
+msgstr "Restricted content. Need to sign in."
+
+#: includes/class-icase-modulo-wp-widget.php:12
+msgid "Formulário de login - iCase"
+msgstr "Login Form - iCase"
+
+#: includes/class-icase-modulo-wp-widget.php:62
+msgid "Bem vindo(a)"
+msgstr "Welcome)"
+
+#: includes/class-icase-modulo-wp-widget.php:63
+msgid "Espaço do Associado"
+msgstr "Members area"
+
+#: includes/class-icase-modulo-wp-widget.php:68
+msgid "Digite seu CPF/E-mail"
+msgstr "Enter your CPF / email"
+
+#: includes/class-icase-modulo-wp-widget.php:69
+msgid "Digite sua senha"
+msgstr "Enter your password"
+
+#: includes/class-icase-modulo-wp-widget.php:71
+msgid "Entrar"
+msgstr "Ok"
+
+#: includes/class-icase-modulo-wp-widget.php:74
+msgid "Esqueci minha senha"
+msgstr "Forgot my password"
+
+#~ msgid "The acronym is provided by Itarget Technology"
+#~ msgstr "A sigla é fornecida pela Itarget Tecnologia"
+
+#~ msgid "Page Title"
+#~ msgstr "Título página"

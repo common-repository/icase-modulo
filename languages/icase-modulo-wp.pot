@@ -1,0 +1,88 @@
+msgid ""
+msgstr ""
+
+#: admin/class-icase-modulo-wp-admin.php:132
+msgid "Ajustes do módulo"
+msgstr ""
+
+#: admin/class-icase-modulo-wp-admin.php:139
+msgid "Sigla do cliente"
+msgstr ""
+
+#: admin/class-icase-modulo-wp-admin.php:164
+msgid "Integração com o iCase."
+msgstr ""
+
+#: admin/class-icase-modulo-wp-admin.php:184
+msgid "A sigla é fornecida pela Itarget Tecnologia."
+msgstr ""
+
+#: admin/class-icase-modulo-wp-admin.php:222
+msgid "As modificações foram salvas."
+msgstr ""
+
+#: admin/class-icase-modulo-wp-admin.php:240
+msgid "Salvar"
+msgstr ""
+
+#: icase-modulo-wp.php:82
+msgid "Conteúdo restrito. Necessário fazer login"
+msgstr ""
+
+#: icase-modulo-wp.php:95
+msgid "Olá"
+msgstr ""
+
+#: icase-modulo-wp.php:95 includes/class-icase-modulo-wp-widget.php:65
+msgid "Sair"
+msgstr ""
+
+#: icase-modulo-wp.php:96
+msgid "Seja bem-vindo(a) ao espaço do associado."
+msgstr ""
+
+#: icase-modulo-wp.php:98
+msgid "Cadastro"
+msgstr ""
+
+#: icase-modulo-wp.php:99
+msgid "Taxas"
+msgstr ""
+
+#: icase-modulo-wp.php:106
+msgid "Conteúdo restrito. Necessário fazer login."
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:12
+msgid "Formulário de login - iCase"
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:63
+msgid "Bem vindo(a)"
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:64
+msgid "Espaço do Associado"
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:69
+msgid "Digite seu CPF/E-mail"
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:70
+msgid "Digite sua senha"
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:72
+msgid "Entrar"
+msgstr ""
+
+#: includes/class-icase-modulo-wp-widget.php:75
+msgid "Esqueci minha senha"
+msgstr ""
+
+#~ msgid "The acronym is provided by Itarget Technology"
+#~ msgstr ""
+
+#~ msgid "Page Title"
+#~ msgstr ""

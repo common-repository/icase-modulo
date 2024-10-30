@@ -1,0 +1,25 @@
+/**
+ * All of the CSS for your public-facing functionality should be
+ * included in this file.
+ */
+ .box-ae-icase {
+    position: relative;
+}
+.box-ae-icase .error-message {
+   position: absolute;
+   background: #F2777A;
+   left: 0;
+   right: 0;
+   padding: 10px;
+   opacity: 0.9;
+   text-align: center;
+   color: #FFF;
+   font-family: inherit;
+}
+.box-ae-icase form input {
+    margin: 5px 2px;
+}
+.box-ae-icase ul {
+    list-style: none;
+    margin: 0;
+}
